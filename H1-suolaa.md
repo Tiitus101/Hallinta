@@ -24,4 +24,5 @@ Nämä komennot kannatta ajaa aina uudella koneella.
 
 Asensin Virtual boxin ja vagrantin komennolla 
 
+![image](https://user-images.githubusercontent.com/130304789/230974544-8a578297-ddf3-43c1-825a-d77abd0d952b.png)
 
