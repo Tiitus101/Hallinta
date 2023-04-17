@@ -1,5 +1,13 @@
 # H3 Git
 
+H3 Tehtävät https://terokarvinen.com/2023/palvelinten-hallinta-2023-kevat/
+
+Tein tehtävät kotona omalla läppärillä Lenovo IdeaPad 5 15ALC05.
+Käyttöjärjestelmänä Windows 10 Home. (Raportti)
+
+Tein tehtävät virtualboxin sisällä Linux koneella. 
+VM koneen käyttöjärjestelmä Ubuntu desktop. (Tehtävät)
+
 ## a) Online
 
 Aloitin tehtävän menemällä Githubiin ja Tekemällä uuden varaston joka sisältää README ja GNU General Public License 3 tiedostot.
