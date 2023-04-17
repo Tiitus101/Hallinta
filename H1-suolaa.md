@@ -14,8 +14,8 @@
 
 Tein tehtävät kotona omalla läppärillä Lenovo IdeaPad 5 15ALC05.
 Käyttöjärjestelmänä Windows 10 Home.
-Tein teheävät kuitenkin linux koneella virtualboxin sisällä. 
-VM koneen käyttöjärjestelmä Ubuntu desk.
+Tein tehtävät linux koneella virtualboxin sisällä. 
+VM koneen käyttöjärjestelmä Ubuntu desktop.
 
 ## a) 
 
