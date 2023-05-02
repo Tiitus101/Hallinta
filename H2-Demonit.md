@@ -27,12 +27,9 @@ Tiedoston sisältö:
 
 ![image](https://user-images.githubusercontent.com/130304789/234946765-b1e65890-40aa-4ed5-a4d8-6d397e5b306f.png)
 
-Koitin testata toimiiko ssh uudella portilla.
-publick keyn kanssa ongelmia
+Nyt toimii kahdella portilla 22 ja 2222
 
-
-
-
+![image](https://user-images.githubusercontent.com/130304789/235530409-8456b7c2-1532-454b-85c0-1576f1121731.png)
 
 
 
@@ -44,4 +41,8 @@ Koneet päälle ja masterille ssh yhteys
 ![image](https://user-images.githubusercontent.com/130304789/234932678-95ced5c6-659e-4882-9f84-3101b40052ce.png)
 
 ![image](https://user-images.githubusercontent.com/130304789/234932839-ac0ca1fe-0a47-48f3-a223-f7a89bf02889.png)
+
+
+
+![image](https://user-images.githubusercontent.com/130304789/235554131-0315b6c7-1a53-4f25-9906-698eaf577a6e.png)
 
