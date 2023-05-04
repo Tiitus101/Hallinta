@@ -31,7 +31,7 @@ Nyt toimii kahdella portilla 22 ja 2222
 
 ![image](https://user-images.githubusercontent.com/130304789/235530409-8456b7c2-1532-454b-85c0-1576f1121731.png)
 
-
+Tässä kohtaa yrittäessäni yhdistää ssh-palvelimelle minulle tuli ongelmia liittyen public keyn kanssa. Minulla meni muutama tunti yrittäessäni ratkaista ongelmaa. Ongelman ratkomisen raportoiminen olisi ollut painajaista sillä se kesti niin kauan joten jätin sen raportoimatta. Lopulta kuitenkin pääsin yhdistämään. 
 
 
 ## b)
@@ -45,4 +45,41 @@ Koneet päälle ja masterille ssh yhteys
 
 
 ![image](https://user-images.githubusercontent.com/130304789/235554131-0315b6c7-1a53-4f25-9906-698eaf577a6e.png)
+
+Masterilla sshd_config tiedosto. tiedosto otettu https://terokarvinen.com/2018/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=salt%20ssh
+
+![image](https://user-images.githubusercontent.com/130304789/236050327-7a44a7df-c005-4505-b0e1-a687a3add7d1.png)
+
+ja sshd.sls
+
+![image](https://user-images.githubusercontent.com/130304789/236089137-f67a076a-8ea3-4d68-af3f-ecea9bbfbe10.png)
+
+ja ajetaan sudo salt '*' state.apply sshd
+
+![image](https://user-images.githubusercontent.com/130304789/236089369-8d727f0f-56f5-49d7-b893-2f02003481e1.png)
+
+
+![image](https://user-images.githubusercontent.com/130304789/236089570-4ef7c4b4-949e-43b7-8cae-7f6ab9f05db9.png)
+
+
+![image](https://user-images.githubusercontent.com/130304789/236089666-4f098cde-50c2-47f4-be6e-d4b1520cfdec.png)
+
+
+## c) 
+
+Uudet portit mukaan 
+
+![image](https://user-images.githubusercontent.com/130304789/236090554-6b90d0d7-47e4-4e31-be81-6751ca41e7bd.png)
+
+Uudet lisäykset:
+
+![image](https://user-images.githubusercontent.com/130304789/236090793-999a8589-e470-4b91-b46c-0afed8b3dde7.png)
+
+
+![image](https://user-images.githubusercontent.com/130304789/236090840-6e07cee5-6799-4867-8ace-b89954f59059.png)
+
+
+![image](https://user-images.githubusercontent.com/130304789/236091055-60518d83-bca5-4266-9f8d-b17e3d9308b6.png)
+
+
 
